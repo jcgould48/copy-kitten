@@ -1,22 +1,17 @@
-#div-header{
-    
-    background-color:#585858;
-    display:inline;   
-    font-size: 30px;
-   
-    
-}
+
 #ul-header li{
     font-family: 'Times New Roman', Times, serif;
     display: inline;
     padding: 20px 10%;
     align-self: auto;   
+    background-color:#585858;
+    
 }
 
 .header{
 color: white;
 text-decoration: none;
-
+vertical-align: text-top;
 
 }
 /* Need to color white and move to top
