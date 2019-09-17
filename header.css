@@ -4,10 +4,13 @@
     display:inline;   
     font-size: 30px;
     text-align:Top;
+    text-decoration: none;
+
     
 }
 #ul-header li{
     color:white;
+    text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     display: inline;
     padding: 20px 10%;
