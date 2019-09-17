@@ -1,9 +1,16 @@
-#header {
-    color: #fff;
-    font-weight: bold;
-    background-color: #40adf6;
-    padding: 20px 50px;
-    font-size: 24px;
-    border: 1px solid #2d6898;
-    background-color: rgb(47, 49, 48)
+#div-header{
+    
+    background-color:#585858;
+    display:inline;   
+    font-size: 30px;
+    text-align:Top;
+    
 }
+#ul-header li{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    padding: 20px 10%;
+    align-self: auto;   
+}
+/* Need to color white and move to top
