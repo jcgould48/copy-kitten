@@ -1,12 +1,85 @@
-#table-one {
-    text-decoration: none;
-    color:#ffffff;
-    background-color: white;  
+.table-one {
+    border-bottom: 1px solid #000;
+   
+  
+    border-right: 1px solid #000;
     font-size: 30px;
-    text-align:Top;
-    border-radius: 10px black;
-    margin-left: 10px black;
-    margin-top: 20px;
-     
+    background-color: white;   
 
-}
+} 
+
+.table-two {
+    border-bottom: 1px solid #000;
+   
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    font-size: 30px;
+    background-color: white;   
+
+} 
+.table-three {
+    border-bottom: 1px solid #000;
+    
+    border-left: 1px solid #000;
+    
+    font-size: 30px;
+    background-color: white;   
+
+} 
+
+.table-four {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+ 
+    border-right: 1px solid #000;
+    font-size: 30px;
+    background-color: white;   
+
+} 
+.table-five {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    font-size: 30px;
+    background-color: white;   
+
+} 
+.table-six {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+
+    font-size: 30px;
+    background-color: white;   
+
+} 
+.table-seven {
+   
+    border-top: 1px solid #000;
+  
+    border-right: 1px solid #000;
+    font-size: 30px;
+    background-color: white;   
+
+} 
+
+.table-eight {
+   
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    font-size: 30px;
+    background-color: white;   
+
+} 
+
+.table-nine {
+ 
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+   
+    font-size: 30px;
+    background-color: white;   
+
+} 
